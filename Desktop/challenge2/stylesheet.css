@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+      text-align: center;
+      background-color: yellow;
+      text-align: center;
+  }
+nav {
+    text-align: center;
+    color: green;
+}
+header h1 {
+    padding: top;
+    font-weight: bold;
+    font-size: 36px;
+    color: green;
+    margin: 0;
+    display: inline;
+}
+body {
+    background-color: black;
+    color: yellow;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+}
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+header nav ul li {
+    display: inline;
+    color:green;
+}
+header h2 {
+    color:green
+}
